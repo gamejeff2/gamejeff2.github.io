@@ -1,0 +1,33 @@
+{
+	"name": "New project",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "ztl8st6d00fa",
+	"viewport-width": 400,
+	"viewport-height": 500,
+	"author": "",
+	"email": "",
+	"website": "http://",
+	"orientations": "any",
+	"c2version": "244",
+	"c3version": "r397",
+	"ife": true,
+	"used-plugins": [
+		"Sprite",
+		"Button",
+		"Mouse",
+		"TiledBg",
+		"Text",
+		"Browser",
+		"Audio",
+		"Touch"
+	],
+	"used-behaviors": [
+		"Platform",
+		"Pin",
+		"destroy",
+		"Fade",
+		"solid"
+	]
+}
